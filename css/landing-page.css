@@ -168,3 +168,12 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.paddingimg {
+    padding-top: 7%;
+}
+
+.paddingimg img {
+    min-width:75%;
+}
+
